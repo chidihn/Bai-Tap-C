@@ -1,0 +1,12 @@
+1. Viết chương trình nhập vào một mảng n số nguyên, in ra mảng đã nhập và in mảng theo thứ tự đảo ngược.
+2. Viết chương trình đổi một số nguyên dương thành một mảng chứa các bits (0 /1) nhị phân.
+3. Một mảng a có n phần tử được gọi là đối xứng nếu a[i] = a[n-i-1] với mọi i = 0, 1, 2, … n/2. Viết chương trình nhập vào một mảng các số nguyên và kiểm tra mảng đã nhập đối xứng hay không?
+3. Nhập vào 1 mảng 1 chiều n phần tử các số thực và in mảng đã nhập.  Nhập tiếp 1 số thực, tìm và hiển thị tất cả các vị trí số đã nhập có trong mảng? 
+4. Nhập vào 1 mảng 1 chiều n phần tử các số thực và in mảng đa nhập. Tìm và in ra giá trị lớn nhất, bé nhất, các phần tử đạt giá trị lớn nhất, bé nhất.
+5. Nhập vào 1 mảng 1 chiều n phần tử các số thực và in mảng đã nhập. Tính và in ra số lượng các phần tử dương, số lượng các phần tử âm có trong mảng.
+6. Nhập vào 1 mảng 1 chiều n phần tử các số thực và in mảng đã nhập. Kiểm tra xem mảng đã nhập có đơn điệu tăng hay không?
+7. Nhập vào 1 mảng n+1 số thực là các hệ số của 1 đa thức bậc n. Nhập x và tính giá tri của đa thức.
+8. Nhập vào 1 mảng 1 chiều n phần tử các số thực. Tính số lần xuất hiện của các phần tử trong mảng.
+9. Viết chương trình nhập vào 1 mảng 1 chiều n phần tử. Sắp xếp tăng dần mảng đã nhập và in ra mảng đã sắp. Nhập tiếp một số thực x và chèn số thực vào mảng đã sắp đề được một mảng sắp tăng dần.
+10. Viết chương trình nhập vào 1 mảng 1 chiều n phần tử và in mảng đã nhập. Xóa tất cả các phần tử trùng nhau trong mảng để được một mảng chỉ có các phần tử khác nhau.
+11. Nhập vào 2 mảng sắp xếp tăng dần. Hãy trộn 2 mảng đó để được 1 mảng sắp xếp tăng dần.

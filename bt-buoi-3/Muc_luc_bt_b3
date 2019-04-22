@@ -1,0 +1,22 @@
+1. Viết chương trình giải hệ phương trình bậc nhất 2 ẩn:
+            a1x + b1y = c1
+            a2x + b2y = c2
+2. Viết chương trình giải phương trình bậc 2: ax2 + bx  + c = 0.
+3. Viết chương trình tính tổng s = 1 + 2 + 3 + … + n, với n nguyên dương được nhập vào từ bàn phím.
+4. Viết chương trình tính tổng s = 1 - 2 + 3 - 4 … + (-1)n+1 n , với n nguyên dương được nhập vào từ bàn phím.
+5. Viết chương trình tính tổng s = 12 + 22 + ... + n2, với n nguyên dương được nhập vào từ bàn phím.
+6. Một số nguyên chỉ chứa các số 0 và 1 được gọi là một số “nhị phân”. Viết chương trình nhập vào một số “nhị phân”. Tính ra giá trị trong hệ số 10 của số đó.
+7. Viết chương trình nhập vào một số nguyên, tính tổng các chữ số của số được nhập.
+8. Một số hoàn hảo là một số nguyên dương mà tổng các ước nguyên dương bé hơn nó bằng chính nó, ví dụ  6 là số hoàn hảo vì 1 + 2 + 3 = 6. Viết chương trình in ra các số hoàn hảo từ 1 đến n với n là số nguyên dương nhập từ bàn phím. 
+9. Một số nguyên được gọi là đối xứng nếu các số đó bằng với số được viết ngược lại, ví dụ 123321 là một số đối xứng. Viết chương trình nhập vào một số nguyên và kiểm tra số nhập vào có phải là số đối xứng hay không?
+10. Viết chương trình nhập vào một số thực x và một dãy n các số thực a0, a1, a2, …, an. Tính và in ra giá trị của đa thức bậc n: f(x) = anxn + an-1xn-1 + … + a1x1 + a0.
+11. Viết chương trình in ra các số nguyên tố từ 1 đến n với n nhập từ bàn phím.
+12. Dãy Fibonacci là dãy vô hạn các số tự nhiên được sinh theo công thức: f0 = 1, f1 = 1 và fn = fn-2 + fn-1 với n ≥ 2. Viết chương trình nhập vào một số nguyên dương n và in ra dãy các số Fibonacci từ 1 đến n.
+13. Viết chương trình tính tổng s = 1 + 1/2! + 1/3! + … + 1/n!, n nguyên dương nhập vào từ bàn phím.
+14.  Viết chương trình tính ex theo công thức ex = 1 + x + x2/2! + x3/3! + …, với độ chính xác epxilon = 0.001.
+15. Viết chương trình nhập vào một dãy n số thực, tính giá trị trung bình của dãy đã nhập.
+16. Viết chương trình tính số pi theo công thức: PI/4 = 1 - 1/3 + 1/5 - 1/7 + … + (-1)n+1/(2n+1), với n là số nguyên nhập vào từ bàn phím và n > 0.
+17. Viết chương trình tính tổng s = 1(1!) + 2(2!) + 3(3!) + … + n(n!) với n là số nguyên dương nhập từ bàn phím.
+18. Một người gửi tiết kiệm với số tiền ban đầu là a, lãi suất là 0,1/năm. Hỏi sau n năm người đó có được cả gốc và lãi là bao nhiêu (giả sử lãi suất cố định hằng năm), n nguyên dương được nhập vào từ bàn phím.
+19. Viết chương trình tìm 3 số nguyên dương a, b, c sao cho a3 + b3 + c3 = abc.
+20. Viết chương trình nhập vào tháng và năm, in ra số ngày của tháng và năm đã nhập.

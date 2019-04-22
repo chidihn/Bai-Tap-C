@@ -1,0 +1,11 @@
+2.16: Tinh tong hieu tich thuong cua 2 so
+2.18: So sanh 2 so
+2.19: Tong tich va TBC cua 3 so, tim so lon nhat
+2.20: Nhap vao ban kinh
+2.21: in hinh *
+2.24: tim so chan le
+2.26: xac nhan xem so do co phai boi so hay ko 
+2.29: Prints: 65 66 67 97 98 99 48 49 50 36 42 43 47
+2.30: Nhap vao 5 so va tach cac chu so do
+2.31: Tinh  binh phuong, lap phuong cac so tu 1-10
+2.32: nhap so can nang chieu cao =>> chi so bmi
